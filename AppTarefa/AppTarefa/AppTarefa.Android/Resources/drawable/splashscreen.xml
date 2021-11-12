@@ -4,8 +4,8 @@
     <color android:color="@color/ic_launcher_background"/>
   </item>
   <item>
-    <bitma
-        android:src="@drawable/logo"
+    <bitmap
+        android:src="@drawable/splashscreen"
         android:tileMode="disabled"
         android:gravity="center"/>
   </item>

@@ -12,7 +12,7 @@ using System.Text;
 namespace AppQuantidade.Droid
 { 
 
-    [Activity(Label = "AppQuantidade", Theme = "@style/MainTheme.Splash", Icon = "@mipmap/ic_launcher", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize)]
+    [Activity(Label = "App - Tarefas", Theme = "@style/MainTheme.Splash", Icon = "@mipmap/ic_launcher", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation )]
     public class SplashActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)

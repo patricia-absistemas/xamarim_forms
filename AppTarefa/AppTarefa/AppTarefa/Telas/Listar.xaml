@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="AppTarefa.Telas.Listar"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundColor="#F5F6FA"
+    NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid RowSpacing="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="5*" />
+                </Grid.RowDefinitions>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <Label Margin="20,30,0,0">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Segunda-feira" />
+                                <Span Text="&#10;" />
+                                <Span Text=" 3 tarefas" />
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                    <Frame
+                        Grid.Column="1"
+                        Margin="10,20,20,0"
+                        BackgroundColor="#4043c9"
+                        CornerRadius="20"
+                        HasShadow="False"
+                        TranslationY="30">
+
+                        <Label HorizontalTextAlignment="Center" TextColor="White">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="9" />
+                                    <Span Text="&#10;" />
+                                    <Span Text="Fev" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                    </Frame>
+
+                </Grid>
+
+                <Frame
+                    Grid.Row="1"
+                    CornerRadius="30"
+                    HasShadow="True"
+                    TranslationY="30" />
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

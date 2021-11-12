@@ -1,0 +1,15 @@
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\bin\Release\netstandard2.0\AppTarefa.deps.json
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\bin\Release\netstandard2.0\AppTarefa.dll
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\bin\Release\netstandard2.0\ref\AppTarefa.dll
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\bin\Release\netstandard2.0\AppTarefa.pdb
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\AppTarefa.csproj.AssemblyReference.cache
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\AppTarefa.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\AppTarefa.AssemblyInfoInputs.cache
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\AppTarefa.AssemblyInfo.cs
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\AppTarefa.csproj.CoreCompileInputs.cache
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\XamlC.stamp
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\AppTarefa.dll
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\ref\AppTarefa.dll
+D:\AB Sistemas\curso xamarim\AppTarefa\AppTarefa\AppTarefa\obj\Release\netstandard2.0\AppTarefa.pdb
