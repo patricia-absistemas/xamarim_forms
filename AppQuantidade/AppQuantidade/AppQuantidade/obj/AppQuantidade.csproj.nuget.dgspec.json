@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {}
+    "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {
+    "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj",
+        "projectUniqueName": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj",
         "projectName": "AppQuantidade",
-        "projectPath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj",
+        "projectPath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj",
         "packagesPath": "C:\\Users\\AB Sistemas\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\obj\\",
+        "outputPath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

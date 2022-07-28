@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMVO8mE0kdefETe4ZigmTr9u6E5IJYbdgnnjY9obvCBkWEKe0Ffy8B1s31Me2PLJJTgq+CK5/wLnXn/zex/f4A==",
+  "dgSpecHash": "P6STOlT/UbRaQpT/0UthN6uK+yI83dHBZL0mRdg1W4Z86YhDuN+N2U1e4muyDhp110ob4Rt1t/0Y/6/oWvQ/tQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade.iOS\\AppQuantidade.iOS.csproj",
+  "projectFilePath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.iOS\\AppQuantidade.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AB Sistemas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

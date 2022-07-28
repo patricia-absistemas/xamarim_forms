@@ -32,5 +32,7 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>AppQuantidade</string>
+	<key>XSAppIconAssets</key>
+	<string>Assets.xcassets/Icone.appiconset</string>
 </dict>
 </plist>

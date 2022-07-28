@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "604Nf/vdS07YK4SLCDIPU568OLHfJHJadNMvKTlq4XeX39OcPO6u31a4wZ/5JyxxBnzTZv8cMB4QLpYjHRCXzg==",
+  "dgSpecHash": "nuLc49bklSM7nU6fWhwbeA89ElAjbc8JoO/N6dyLbdTY4i9yUBLnHAtYE/yTw0oWSxUcVyGaZaYV1/LkyCsHPQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj",
+  "projectFilePath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AB Sistemas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\AB Sistemas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

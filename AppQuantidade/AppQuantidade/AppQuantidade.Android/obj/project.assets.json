@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
+      "projectUniqueName": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
       "projectName": "AppQuantidade.Android",
-      "projectPath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
+      "projectPath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
       "packagesPath": "C:\\Users\\AB Sistemas\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\obj\\",
+      "outputPath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2175,8 +2175,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {
-              "projectPath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj"
+            "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj": {
+              "projectPath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj"
             }
           }
         }

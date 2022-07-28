@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vbEwjUCa9kEgE3Rrsn10DkQNmfw5pjais4nanh1p/D2Dg8JQjmOLg/CyS8tXvqsswloaL+bg7BBLh6jDaCbxw==",
+  "dgSpecHash": "49S/gV7/1hre9B5hSpeLPcYu465jyHhtH48fgoR4tN3iE/oNMMxyvTfb+9MGTafBx6W1JO33njTgmwmDXU/NIw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
+  "projectFilePath": "D:\\AB Sistemas\\Curso Xamarin\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AB Sistemas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

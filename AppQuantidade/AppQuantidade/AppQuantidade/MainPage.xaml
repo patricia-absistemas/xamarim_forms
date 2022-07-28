@@ -14,32 +14,30 @@
             HorizontalTextAlignment="Center"
             Text="Quantidade" />
         <Label
-            x:Name="lblQuantidade"
+            x:Name="LblQuantidade"
             FontSize="48"
+            HorizontalTextAlignment="Center"
             Text="1"
             TextColor="Red" />
         <StackLayout Orientation="Horizontal" Spacing="40">
             <Button
-                BackgroundColor="white"
+                BackgroundColor="White"
                 BorderColor="#707070"
                 BorderWidth="1"
                 Clicked="Aumentar"
                 FontSize="48"
-                HeightRequest="90"
+                HeightRequest="100"
                 Text="+"
-                WidthRequest="90" />
-
+                WidthRequest="100" />
             <Button
-                BackgroundColor="white"
+                BackgroundColor="White"
                 BorderColor="#707070"
                 BorderWidth="1"
                 Clicked="Diminuir"
                 FontSize="48"
-                HeightRequest="90"
+                HeightRequest="100"
                 Text="-"
-                WidthRequest="90" />
-
+                WidthRequest="100" />
         </StackLayout>
-
     </StackLayout>
 </ContentPage>
